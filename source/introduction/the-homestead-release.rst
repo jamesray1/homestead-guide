@@ -14,7 +14,6 @@ The `original development roadmap <https://blog.ethereum.org/2015/03/03/ethereum
 * Release Step Two: Homestead - launched 14 March 2016 (Pi Day) `[1] <https://blog.ethereum.org/2016/02/29/homestead-release/>`_
 * Release Step Three: Metropolis - TBA
 * Release Step Four: Serenity - TBA
-`\ :sup:
 
 While still valid, the substance behind it has changed somewhat.
 The `Olympic testnet <olympic-testnet>`_ phase (before the `Frontier release <history-of-ethereum.html#the-ethereum-frontier-launch>`_) saw a lot of major improvements, followed by Frontier which was launched immediately after. Homestead marks the exit from a beta product to a stable release.
@@ -51,6 +50,7 @@ The changes have the following benefits:
 * EIP-8 makes sure that all client software in use on the Ethereum network can cope with future network protocol upgrades.
 
 References:
+
 [1]: Jeffrey Wilcke, February 29th, 2016, "Homestead Release",<https://blog.ethereum.org/2016/02/29/homestead-release/>, accessed 3 October 2017.
 
 Additional resources:
