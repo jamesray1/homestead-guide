@@ -11,7 +11,7 @@ The `original development roadmap <https://blog.ethereum.org/2015/03/03/ethereum
 
 * Prerelease Step 0: Olympic testnet - launched May 2015
 * Release Step One: Frontier - launched 30 July 2015
-* Release Step Two: Homestead - launches 14 March 2016 (Pi Day)
+* Release Step Two: Homestead - launched 14 March 2016 (Pi Day)\:sup:`[1]`\
 * Release Step Three: Metropolis - TBA
 * Release Step Four: Serenity - TBA
 
@@ -50,6 +50,8 @@ The changes have the following benefits:
 * EIP-7 makes it much easier for a contract to store another address as a mutable source of code and ''pass through'' calls to it, as the child code would execute in essentially the same environment (except for reduced gas and increased callstack depth) as the parent.
 * EIP-8 makes sure that all client software in use on the Ethereum network can cope with future network protocol upgrades.
 
+References:
+[1]: Jeffrey Wilcke, February 29th, 2016, "Homestead Release","https://blog.ethereum.org/2016/02/29/homestead-release/", accessed 3 October 2017
 
 Additional resources:
 - `Reddit discussion on Homestead Release <https://www.reddit.com/r/ethereum/comments/48arax/homestead_release_faq/>`_
