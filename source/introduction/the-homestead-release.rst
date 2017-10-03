@@ -53,6 +53,8 @@ References:
 
 [1]: Jeffrey Wilcke, February 29th, 2016, "Homestead Release",<https://blog.ethereum.org/2016/02/29/homestead-release/>, accessed 3 October 2017.
 
+
 Additional resources:
+
 - `Reddit discussion on Homestead Release <https://www.reddit.com/r/ethereum/comments/48arax/homestead_release_faq/>`_
 - :ref:`Ethereum Improvement Proposals`
